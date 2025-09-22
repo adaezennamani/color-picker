@@ -137,7 +137,9 @@ button {
     padding: 6px 5px;
     font-size: 12px;
 }
-
+    button:hover {
+        cursor: not-allowed
+    }
 .red-box {
     height: 50px;
     width: 60px;
@@ -164,5 +166,6 @@ h4 {
     margin-top: 16px;
     font-size: 10px;
 }
+
 
 }
